@@ -27,8 +27,12 @@ nav{
     display: flex;
     justify-content: space-between;
 }
+nav img{
+    padding: 0 1rem;
+}
 nav .links{
     display: flex;
+    padding: 0 1rem;
     font-size: 25px;
 }
 .links a{
